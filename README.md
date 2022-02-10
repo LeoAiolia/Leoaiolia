@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 [![Run's GitHub](https://github-readme-stats.vercel.app/api?username=LeoAiolia&count_private=true&show_icons=true&theme=tokyonight)](https://www.jianshu.com/u/4f3d52fed302)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAiolia&layout=compact)](https://www.jianshu.com/u/4f3d52fed302)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAiolia&layout=compact&theme=tokyonight)](https://www.jianshu.com/u/4f3d52fed302)
 
 
 <a href="https://github.com/gfaraday/g_faraday">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gfaraday&repo=g_faraday" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gfaraday&repo=g_faraday&theme=tokyonight" />
 </a>
 
