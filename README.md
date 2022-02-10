@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Run's GitHub](https://github-readme-stats.vercel.app/api?username=LeoAiolia&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Run's GitHub](https://github-readme-stats.vercel.app/api?username=LeoAiolia&count_private=true&show_icons=true&theme=tokyonight)](https://www.jianshu.com/u/4f3d52fed302)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAiolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAiolia&layout=compact)](https://www.jianshu.com/u/4f3d52fed302)
 
 
 <a href="https://github.com/gfaraday/g_faraday">
