@@ -23,3 +23,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gfaraday&repo=g_faraday&theme=tokyonight" />
 </a>
 
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
