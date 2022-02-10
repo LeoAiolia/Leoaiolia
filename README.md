@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: [@run](https://weibo.com/u/2271082327)
 
-底层码农、移动端开发工程师、Flutter开发。
+底层码农、iOS开发工程师、Flutter开发。
 
 [![Run's GitHub](https://github-readme-stats.vercel.app/api?username=LeoAiolia&count_private=true&show_icons=true&theme=tokyonight)](https://www.jianshu.com/u/4f3d52fed302)
 
