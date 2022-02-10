@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAiolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/gfaraday/g_faraday">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gfaraday&repo=g_faraday" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeoAiolia&repo=ISActionSheet" />
-</a>
+
